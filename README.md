@@ -1,7 +1,9 @@
 
 
-	- [The Phonology of Modern Standard Chinese Syllable Finals](#the-phonology-of-modern-standard-chinese-syllable-finals)
-- [](#)
+- [The Phonology of Modern Standard Chinese Syllable Finals](#the-phonology-of-modern-standard-chinese-syllable-finals)
+- [Five Vowels](#five-vowels)
+- [—](#—)
+- [Rhyme Classes](#rhyme-classes)
 
 > **Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
@@ -21,8 +23,28 @@ annex draft covering the initials (i.e. the consonants) of Mandarin is available
 [consonants.pdf](https://github.com/loveencounterflow/phonologie-auslaute-chinesisch/releases/download/tr1/consonants.pdf).
 
 
-###
+The upload of this material was triggered by an
+[interesting discussion on Language Log](http://languagelog.ldc.upenn.edu/nll/?p=17913).
 
+In the following, i started to collect some snippets from that discussion that i try to connect to
+details i treated in my thesis.
+
+### Five Vowels
+
+> Michael Watts said,
+>
+> March 4, 2015 @ 7:03 pm
+>
+> flow –
+>
+> under the model you've described where chinese syllables have one of two nuclear vowels, how is the contrast
+> between sha / she / shi explained? I know shi is traditionally viewed as having a zero rime, but I don't
+> really believe in the concept of a zero rime, and I notice that in a song the vowel of shi may be held.
+
+
+
+
+### —
 
 > Michael Watts said,
 >
@@ -45,6 +67,7 @@ annex draft covering the initials (i.e. the consonants) of Mandarin is available
 
 @Michael Watts (concerning how the vowels
 
+### Rhyme Classes
 
 > Zev Handel said,
 >
