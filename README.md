@@ -98,7 +98,22 @@ It doesn't end there: It looks like **you can never find a third companion sylla
 would be only distinguished by its nucleus**; thus, there is no \*lieng that is distinct from ling, liang,
 no \*lien that is distinct from lin, lian and so on.
 
+@Michael Watts concerning the vowels of la, le, li, lu, lü etc and the "two vowels" model, the short answer
+to me is that these syllables have a simpler structure that syllables like lai, lei, lou, lüe and so on.
 
+The effect is that in the simpler syllables, you have more options to put into the single available position
+(in Mandarin, at least five), while in the complex syllables, what you gain in complexity by adding more
+positions to the syllable final is in part counteracted by a reduction in what each position can
+accommodate. In complex finals, the medial position can only have i, u, ü; the code can only have i, u, n,
+or ng, and the nucleus one of *two* possibilities: a and "not a".
+
+Two considerations corroborate these findings: (1) we find that when we look at consonant clusters across
+languages, those clusters do enlarge the overall range of possible utterances, but the price to pay for the
+added complexity is that not all consonants can partake in all clusters; rather, the number of clusters is
+typically quite reduced. This is in analogy to what we find in MSC finals. (2) When we compare moderately
+complex with maximally complex Mandarin syllable finals, we find more restrictions in the latter: for
+example, you only get one "i" and one "u" per syllable, and in a syllable with a medial "ü", neither "i" nor
+"u" may appear in the coda.
 
 
 
