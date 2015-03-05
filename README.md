@@ -41,6 +41,66 @@ details i treated in my thesis.
 > between sha / she / shi explained? I know shi is traditionally viewed as having a zero rime, but I don't
 > really believe in the concept of a zero rime, and I notice that in a song the vowel of shi may be held.
 
+@Michael Watts Concering a phonological vowel model for MSC, that would hinge a lot on assumptions of
+syllabic structure. One model is to postulate that all syllables in the language must have the same
+structure (eg **OMNC** for Onset, Medial, Nucleus, and Coda) and then demand that all syllables that do
+not display the full possible complexity (as e.g. found in shuai, tiao, liang) should have "zero"
+placeholders in the missing positions.
+
+Another, complementary view is to say that auditorily simple syllables should be analyzed as
+having phonological simple structures, and auditorily complex syllables should be analyzed as having
+correspondongly more phonological structure. I think the latter approach is much better for a number of
+reasons.
+
+That said, let's have a look at all the minimal, short, simple syllables of Mandarin. Since we are
+here only concerned with the "vowels", we can allow syllables with occupied (consonantal) onsets next
+to ones with zero (vocalic) onsets.
+
+> (I'm deliberately skipping the possibility that all MSC syllables have
+> phonologically occupied onsets, as Pinyin orthography `<w->`, `<y->` would appear to insinuate.)
+
+Possible candidates for minimal syllable finals of Mandarin are, among others:
+
+ge, yi, yu, la, (ai)yo!, er, wu, ri, zhi, si.
+
+Of these, we can discount the yo because it is clearly an interjection, and we know that while interjections
+are not at all uninteresting in themselves, they often obey phonetic / phonological rules that are not
+valid for the words you would "expect to find in the dictionary" (i.e. the "main system" of the language).
+
+Next, er on the one hand and ri, zhi, shi on the other are special.
+
+Er is special because it cannot appear
+with an onset except in rhotacized syllables (兒化音節). I think 兒化 should be dealt with separately. As for
+the stand-alone syllable er, we can advantageously deal with it later.
+
+Ri, zhi, shi are special because in this case, the vowel cannot combine with any medial or coda (outside
+of beign rhotacized). The vowel is also perceptually quite salient and not very [i]-ish as the Pinyin
+orthography would have one to believe. If what i said above is true, we can safely surmise that whatever
+is written "i" in these syllables forms its own sub-system. At any rate, we wanted to take a look
+at the minimal syllables of Mandarin, and these syllables are not, because the realization of the
+the syllable finals relies on these specific onsets being present.
+
+We're left with 5 distinct single vowels in Mandarin; these are /a/, /ɤ/, /i/, /ü/, and /u/.
+
+To make a long answer short: Once we leave the realm of single-segment finals and have a look
+into more complex syllables, the pattern that emerges is that one set of complex finals (e.g. as in
+liang, xian, guai, lao, dang) has something very [a]-ish in its nucleus, and **we are almost
+always able to find a minimally different companion syllable with a distinctly not
+[a]-ish nucleus**; as for the examples shown above, the companion pairs are
+
+* liang — ling
+* xian — xin
+* guai — gui
+* lao — lou
+* dang — deng
+
+It doesn't end there: It looks like **you can never find a third companion syllable in Mandarin that
+would be only distinguished by its nucleus**; thus, there is no \*lieng that is distinct from ling, liang,
+no \*lien that is distinct from lin, lian and so on.
+
+
+
+
 
 
 
