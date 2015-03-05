@@ -12,8 +12,8 @@ that while MS Backup does write to magnetic media, those media and the OS were d
 software very soon. For this reason, the best i can offer now are PDFs with scans of the printed pages.
 
 The thesis may be downloaded as
-[pamhc.pdf](); it covers the finals of Mandarin. An unpublished
-annex covering the initials (i.e. the consonants) of Mandarin is available as
-[consonants.pdf]().
+[pamhc.pdf](https://github.com/loveencounterflow/phonologie-auslaute-chinesisch/releases/download/tr1/pamhc.pdf); it covers the finals of Mandarin. An hitherto unpublished
+annex draft covering the initials (i.e. the consonants) of Mandarin is available as
+[consonants.pdf](https://github.com/loveencounterflow/phonologie-auslaute-chinesisch/releases/download/tr1/consonants.pdf).
 
 
