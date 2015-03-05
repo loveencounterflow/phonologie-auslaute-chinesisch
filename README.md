@@ -46,8 +46,39 @@ annex draft covering the initials (i.e. the consonants) of Mandarin is available
 @Michael Watts (concerning how the vowels
 
 
+> Zev Handel said,
+>
+> March 5, 2015 @ 8:01 am
+>
+> @Michael Watts, the zhuyin and pinyin transcription systems are based on two different (and equally valid)
+> phonemic analyses of Mandarin pronunciation. I was describing the pinyin transcription system, which is
+> based on a treatment of the finals of 音 and 暈 as consisting of a single main vowel (IPA [i] and [y]
+> respectively) followed by coda [n]. This is because most of the earlier discussion had been mediated
+> through pinyin representations.
+>
+> The zhuyin transcription system is based on a treatment of these same two finals as consisting of an onglide
+> (IPA [j] and [ɥ] respectively, i.e. short versions of [i] and [y]) followed by main vowel [ə] and then coda
+> [n].
+>
+> Both are valid phonemicizations. You can't decide between them based on what you hear. Even if you agree
+> that 音 is pronounced [in], you can still treat this phonemically as /iən/ -> [in].
+>
+> One possible way of deciding between the phonemicizations is by looking at rhyming. The problem with this is
+> that native speakers don't always agree, in part because rhyming practice is based not just on phonology but
+> also on culture, including historically valid rhymes. Rhyming judgments can also be influenced by spelling,
+> so judgments of zhuyin users and pinyin users might differ. Still, you can ask some native speakers which
+> subsets of the following four characters rhyme:
+>
+> a) 恩
+> b) 音
+> c) 暈
+> d) 溫
+>
+> According to the zhuyin representation, all four have the same main vowel and ending (ㄣ) so they should all
+> rhyme. According to the (base) pinyin representation (a) and (d) should rhyme with each other, and nothing
+> else should rhyme.
 
-
+@Zev Handel
 
 ![Rime Classes](https://github.com/loveencounterflow/phonologie-auslaute-chinesisch/raw/master/originals/pamhc-part1-p115-ch08.jpg)
 
